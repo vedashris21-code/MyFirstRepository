@@ -1,4 +1,4 @@
 # MyFirstRepository
-This is first repository.
+This is my first repository.
 <br>
-Auther- Vedashri
+By - Vedashri
